@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @behnam-sudosu
-- 👀 I’m interested in Linux and DevOps Engineering
+- 👀 I’m interested in Linux and DevOps Engineering, C Programming Language
 - 🌱 I’m currently learning Lpic1, Lpic2, DevOps, c++
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
